@@ -4,7 +4,7 @@ Name: Annabelle Huang
 
 CNET ID: ahuang02
 
-To build and run the neural network programs, use the commands `module load openblas`, `module load cuda`, and `make neural_net`.
+To build and run the neural network programs, use the command `make neural_net`.
 
 ### CPU Native
 
